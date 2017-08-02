@@ -1,0 +1,9 @@
+{
+  "name": "gmail-api-quickstart",
+  "version": "1.0.0",
+  "description": "The Gmail API quickstart",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^20.1.0"
+  }
+}
